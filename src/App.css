@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.heading {
+  text-align: center;
+  font-size: 40px; /* Equivalent to text-2xl */
+  font-weight: bold;
+  padding: 16px; /* Equivalent to p-4 */
+}
+
