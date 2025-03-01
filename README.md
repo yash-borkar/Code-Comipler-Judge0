@@ -15,7 +15,7 @@ An **online code compiler** built with **React, Docker, and Judge0 API** that su
 🔗 **Pull the Docker image:**
 ```sh
 docker pull yashborkar/code-compiler:latest
-docker run -p 5173:5173 yashborkar/code-compiler:latest
+docker run yashborkar/code-compiler:latest
 ```
 
 🔗 **Check out the live project:** <a rel="noopener noreferrer" href="https://compilespacee.vercel.app">Live Demo</a>
