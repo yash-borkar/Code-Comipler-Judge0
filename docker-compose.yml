@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  online-code-compiler:
+    build: .
+    ports:
+      - "5173:5173"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - VITE_JUDGE0_API_KEY=your_api_key_here
+    command: ["npm", "run", "dev"]
