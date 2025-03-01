@@ -18,10 +18,8 @@ docker pull yashborkar/code-compiler:latest
 docker run -p 5173:5173 yashborkar/code-compiler:latest
 ```
 
-🔗 **Check out the live project:**
-```sh
-https://compilespacee.vercel.app/
-```
+🔗 **Check out the live project:** <a rel="noopener noreferrer" href="https://compilespacee.vercel.app">Live Demo</a>
+
 ---
 
 ## 🛠️ Installation & Setup
