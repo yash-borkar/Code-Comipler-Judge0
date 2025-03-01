@@ -10,6 +10,19 @@ An **online code compiler** built with **React, Docker, and Judge0 API** that su
 ✅ **Secure Execution** – Code runs in an isolated sandbox environment.  
 
 ---
+## 📢 Quick Access
+
+🔗 **Pull the Docker image:**
+```sh
+docker pull yashborkar/code-compiler:latest
+docker run -p 5173:5173 yashborkar/code-compiler:latest
+```
+
+🔗 **Check out the live project:**
+```sh
+https://compilespacee.vercel.app/
+```
+---
 
 ## 🛠️ Installation & Setup
 
