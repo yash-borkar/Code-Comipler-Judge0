@@ -122,7 +122,7 @@ function App() {
           headers: {
             "content-type": "application/json",
             "X-RapidAPI-Key": 
-              "14492912fbmsh7ad3e55424e42bcp1aab8djsnb51ba72dd3fc", // Replace with your RapidAPI key
+              "your_api_key_here", // Replace with your RapidAPI key
             "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com"
           }
         }
@@ -137,7 +137,7 @@ function App() {
             `https://judge0-ce.p.rapidapi.com/submissions/${token}`,
             {
               headers: {
-                "X-RapidAPI-Key": "14492912fbmsh7ad3e55424e42bcp1aab8djsnb51ba72dd3fc", // Replace with your RapidAPI key
+                "X-RapidAPI-Key": "your_api_key_here", // Replace with your RapidAPI key
                 "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com"
               }
             }
