@@ -14,7 +14,6 @@ An **online code compiler** built with **React, Docker, and Judge0 API** that su
 
 🔗 **Pull the Docker image:**
 ```sh
-docker pull yashborkar/code-compiler:latest
 docker run yashborkar/code-compiler:latest
 ```
 
