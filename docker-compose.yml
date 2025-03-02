@@ -4,7 +4,7 @@ services:
   compile-space:
     build: .
     ports:
-      - "5174:5174"
+      - "5173:5173"
     volumes:
       - .:/app
       - /app/node_modules
