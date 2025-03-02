@@ -25,7 +25,7 @@ docker run yashborkar/code-compiler:latest
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yash-borkar/code-compiler.git
+https://github.com/yash-borkar/Code-Comipler-Judge0.git
 cd code-compiler
 ```
 
@@ -70,7 +70,7 @@ Want to improve this project? Follow these steps:
 1. **Fork** the repository.
 2. **Clone** it locally:  
    ```sh
-   git clone https://github.com/your-username/code-compiler.git
+   git clone https://github.com/yash-borkar/Code-Comipler-Judge0.git
    ```
 3. **Create a new branch:**  
    ```sh
