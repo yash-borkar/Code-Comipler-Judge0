@@ -526,7 +526,7 @@ function App() {
           <p>© 2025 CompileSpace<br />
             Designed by 
             <a href="https://www.linkedin.com/in/prathamesh-kapadne/" target="_blank" rel="noopener noreferrer"> Prathamesh </a> 
-            and 
+            & 
             <a href="https://www.linkedin.com/in/yashborkar/" target="_blank" rel="noopener noreferrer"> Yash</a>
           </p>
           </div>
