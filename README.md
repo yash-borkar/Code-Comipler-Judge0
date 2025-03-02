@@ -58,7 +58,7 @@ The app will be live at **`http://localhost:5174`** 🚀
 ---
 
 ## 💡 Technologies Used
-- **Frontend:** React, Tailwind CSS  
+- **Frontend:** React, CSS  
 - **API:** Judge0 API  
 - **Deployment:** Docker, Vercel  
 
