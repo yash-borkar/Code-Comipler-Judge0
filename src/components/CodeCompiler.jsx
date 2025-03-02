@@ -523,7 +523,7 @@ function App() {
         {/* Footer */}
         <footer className="app-footer">
           <div className="footer-content">
-            <p>© 2025 CompileSpace</p>
+            <p>© 2025 CompileSpace && designed by Prathamesh and Yash</p>
           </div>
         </footer>
       </div>
