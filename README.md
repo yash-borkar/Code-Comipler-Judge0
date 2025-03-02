@@ -26,7 +26,7 @@ docker run yashborkar/code-compiler:latest
 ### 1️⃣ Clone the Repository
 ```sh
 https://github.com/yash-borkar/Code-Comipler-Judge0.git
-cd code-compiler
+cd Code-Comipler-Judge0
 ```
 
 ### 2️⃣ Install Dependencies
