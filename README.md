@@ -45,7 +45,7 @@ In CodeCompiler.jsx file, replace Judge0 API Key
 ```sh
 npm run dev
 ```
-The app will be live at **`http://localhost:5173`** 🚀  
+The app will be live at **`http://localhost:5174`** 🚀  
 
 ---
 
