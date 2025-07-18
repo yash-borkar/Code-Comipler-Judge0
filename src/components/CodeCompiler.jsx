@@ -330,13 +330,13 @@ function App() {
             >
               <Info className="icon-small" />
             </button>
-            <a
+{/*             <a
               href="https://github.com/yash-borkar/Code-Comipler-Judge0"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-button"
               aria-label="GitHub Repository"
-            >
+            > */}
               <Github className="icon-small" />
             </a>
             <button
@@ -524,10 +524,10 @@ function App() {
         <footer className="app-footer">
           <div className="footer-content">
           <p>© 2025 CompileSpace<br />
-            Designed by 
+{/*             Designed by 
             <a href="https://www.linkedin.com/in/prathamesh-kapadne/" target="_blank" rel="noopener noreferrer"> Prathamesh </a> 
             & 
-            <a href="https://www.linkedin.com/in/yashborkar/" target="_blank" rel="noopener noreferrer"> Yash</a>
+            <a href="https://www.linkedin.com/in/yashborkar/" target="_blank" rel="noopener noreferrer"> Yash</a> */}
           </p>
           </div>
         </footer>
