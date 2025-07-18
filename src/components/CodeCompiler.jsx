@@ -336,9 +336,9 @@ function App() {
               rel="noopener noreferrer"
               className="icon-button"
               aria-label="GitHub Repository"
-            > */}
+            >
               <Github className="icon-small" />
-            </a>
+            </a> */}
             <button
               onClick={() => setDarkMode(!darkMode)}
               className="icon-button"
